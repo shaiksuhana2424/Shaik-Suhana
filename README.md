@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suhana Shaik!
 **Aspiring Software Engineer | B.Tech CSE '26**  
-*Passionate about Java Development, Spring Boot, and Building Scalable Backend Solutions.*
+*Passionate about Java Development, Spring Boot, and Building Scalable Application*
 
 ---
 
