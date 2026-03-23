@@ -23,11 +23,13 @@
 - 🏆 **Java Foundation Certification** – Infosys Springboard
 - 🏆 **Agile Scrum in Practice** – Infosys Springboard
 - 🏆 **Android Application Development** – APSSDC
-
 ### 📊 My GitHub Activity
-![Suhana's GitHub Stats](https://github-readme-stats.vercel.app)
+![Suhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaiksuhana2424&show_icons=true)
 
-![Suhana's Top Langs](https://github-readme-stats.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksuhana2424&layout=compact)
+
+---
+
 
 ---
 
