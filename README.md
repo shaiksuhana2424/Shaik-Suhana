@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suhana Shaik!
 **Aspiring Software Engineer | B.Tech CSE '26**  
-*Passionate about Java Development, Spring Boot, and Building Scalable Application*
+*Passionate about Java Development, Spring Boot, and Building Scalable  Backend Application*
 
 ---
 
@@ -26,11 +26,12 @@
 
 ### 📊 My GitHub Activity
 ![Suhana's GitHub Stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
+
+![Suhana's Top Langs](https://github-readme-stats.vercel.app)
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Suhana Shaik](http://www.linkedin.com/in/%20suhana-shaik-26022030b)
+- **LinkedIn:** [Suhana Shaik](www.linkedin.com/in/suhana-shaik-26022030b)
 - **Email:** [shaiksuhana2424@gmail.com](mailto:shaiksuhana2424@gmail.com)
 - **Location:** Andhra Pradesh, India 🇮🇳
